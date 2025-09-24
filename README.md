@@ -18,8 +18,8 @@ Enthusiastic and detail-oriented cybersecurity professional with hands-on experi
 ---
 
 ## 🔹 Projects
-- [Splunk SIEM Configuration](https://github.com//Splunk-SIEM-Configuration)  
-- [Snort IDS Configuration](https://github.com/YourUsername/Snort-IDS-Configuration)  
+- [Splunk SIEM Configuration](https://github.com/Dhanish/Splunk-SIEM-Configuration)  
+- [Snort IDS Configuration](https://github.com/Dhanish/Snort-IDS-Configuration)  
 
 ---
 
