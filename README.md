@@ -18,14 +18,15 @@ Enthusiastic and detail-oriented cybersecurity professional with hands-on experi
 ---
 
 ## 🔹 Projects
-- [Splunk SIEM Configuration](https://github.com/Dhanish/Splunk-SIEM-Configuration)  
+- [Splunk SIEM Configuration](https://github.com/Carti-h/Splunk-SIEM-Configuration)  
 - [Snort IDS Configuration](https://github.com/Dhanish/Snort-IDS-Configuration)  
 
 ---
 
 ## 🔹 Certifications
 - CEH (Certified Ethical Hacker)  
-- Certified Security Tester  
+- Certified Security Tester
+- Advanced SOC analyst
 
 ---
 
